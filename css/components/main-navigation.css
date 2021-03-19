@@ -1,0 +1,9 @@
+.main-navigation{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.main-navigation.-img{
+    margin: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+}

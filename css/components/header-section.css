@@ -1,0 +1,7 @@
+.header-section{
+    display: inline-flex;
+    box-sizing: border-box;
+    width: 100%;
+    align-items: center;
+    padding: 10px 30px;
+}

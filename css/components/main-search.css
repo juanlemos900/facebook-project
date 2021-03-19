@@ -1,0 +1,10 @@
+.main-search{
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    padding: 15px 22px 15px 15px ; 
+    border-radius:10px;
+    background-color: #E5E5E5 ;
+    margin-left: 25px;
+}
+

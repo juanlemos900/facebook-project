@@ -1,0 +1,14 @@
+.box-search{
+    padding: 0;
+    box-sizing: border-box;
+    padding-left: 5px;
+    background-color: transparent;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    border: none;
+    height: 20px;
+    width: 180px;
+    font-weight: 500;
+}
+
+.box-search::-webkit-input-placeholder{ color:#898F9C; }
